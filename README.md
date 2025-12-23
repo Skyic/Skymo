@@ -1,4 +1,4 @@
-#Skymo
+## Skymo
 skymo is a real-time operating system based on FreeRTOS-LTS and using the RISC-V instruction set
 ## Overview
 FreeRTOS offers feature stability with long term support (LTS) releases. FreeRTOS LTS libraries come with security updates and critical bug fixes to the FreeRTOS kernel and IoT libraries listed below for two years, and are maintained by AWS for the benefit of the FreeRTOS community. With FreeRTOS LTS, you get a complete set of libraries needed to build secure connected IoT and embedded products. Long term support helps reduce maintenance and testing costs associated with updating libraries on your devices already in production.
